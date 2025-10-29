@@ -6,24 +6,30 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Victhor Guilherme Santos Loiola
+- Matricula: 903255
+- Proposta de projeto escolhida: CRUD com JSON Server (Filmes)
+- Breve descrição sobre seu projeto: O projeto tem como objetivo desenvolver uma aplicação web que realiza o gerenciamento de filmes, permitindo o cadastro, listagem, edição e exclusão de informações utilizando o JSON Server como backend simulado.
+A interface foi construída com HTML, CSS e JavaScript, aplicando o conceito de consumo dinâmico de dados via fetch(), simulando o funcionamento de um sistema real com API REST.
+Além disso, o projeto apresenta uma interface moderna e intuitiva, permitindo visualizar as capas dos filmes, seus títulos, descrições e demais detalhes de forma prática e interativa.
 
 **Print dos testes da API com Postman ou similar**
 
-<< COLOQUE A IMAGEM GET AQUI >>
+![alt text](GET.jpeg)
 
-<< COLOQUE A IMAGEM POST AQUI >>
+![alt text](POST.jpeg)
 
-<< COLOQUE A IMAGEM PUT AQUI >>
+![alt text](PUT.jpeg)
 
-<< COLOQUE A IMAGEM DELETE AQUI >>
+![alt text](DELETE.jpeg)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<Print NETWORK GET.jpeg>)
+
+![alt text](1.jpeg)
+
+![alt text](<MÉTODO POST.jpeg>)
 
 ## **Orientações Gerais**
 
