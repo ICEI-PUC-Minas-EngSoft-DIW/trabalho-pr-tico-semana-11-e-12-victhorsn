@@ -15,21 +15,21 @@ Além disso, o projeto apresenta uma interface moderna e intuitiva, permitindo v
 
 **Print dos testes da API com Postman ou similar**
 
-![alt text](GET.jpeg)
+![GET](https://github.com/user-attachments/assets/728dabe3-6527-4d3a-a29a-f42cdd01b600)
 
-![alt text](POST.jpeg)
+![POST](https://github.com/user-attachments/assets/38aa1e99-9c09-42bf-939c-6c23daeb5083)
 
-![alt text](PUT.jpeg)
+![PUT](https://github.com/user-attachments/assets/3482d8f3-988a-4cd0-984a-02a8b18de304)
 
-![alt text](DELETE.jpeg)
+![DELETE](https://github.com/user-attachments/assets/dbdfa267-879f-4bb1-a04b-5f4b0df4dedb)
 
 **Print da aba NETWORK com requisições Fetch/XHR POST e GET**
 
-![alt text](<Print NETWORK GET.jpeg>)
+![Print NETWORK GET](https://github.com/user-attachments/assets/e8e6fa6d-4eb3-4c09-87b6-e18504c81cdb)
 
-![alt text](1.jpeg)
+![1](https://github.com/user-attachments/assets/8a47aa2d-2488-48ff-ab76-23683b0bc3d3)
 
-![alt text](<MÉTODO POST.jpeg>)
+![MÉTODO POST](https://github.com/user-attachments/assets/f31bf5a3-b42b-4bd8-b4dd-9b7fa89a4323)
 
 ## **Orientações Gerais**
 
