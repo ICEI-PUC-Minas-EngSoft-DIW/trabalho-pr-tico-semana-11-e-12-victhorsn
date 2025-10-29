@@ -1,18 +1,32 @@
 {
-  "usuarios": [
+  "filmes": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1",
+      "titulo": "Super Mario Bros – O Filme 2",
+      "data": "2026-04-03",
+      "imagem": "https://via.placeholder.com/300x450",
+      "descricao": "Mario e Luigi retornam em uma nova aventura para salvar o Reino dos Cogumelos."
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "2",
+      "titulo": "Toy Story 5",
+      "data": "2026-06-19",
+      "imagem": "https://via.placeholder.com/300x450",
+      "descricao": "Woody, Buzz e toda a turma estão de volta para novas aventuras emocionantes."
+    },
+    {
+      "id": "3",
+      "titulo": "Avatar 3",
+      "data": "2026-12-18",
+      "imagem": "https://via.placeholder.com/300x450",
+      "descricao": "Jake e Neytiri retornam para uma nova saga em Pandora."
+    },
+    {
+      "id": "4095",
+      "titulo": "Homem-Aranha - Um Novo Dia",
+      "data": "2026-07-30",
+      "imagem": "https://via.placeholder.com/300x450",
+      "descricao": "Em Homem-Aranha: Um Novo Dia, Peter Parker (Tom Holland) está completamente focado em sua vida acadêmica, almejando viver uma vida comum com o pessoal da sua faculdade e longe dos ‘’perigos’’ oferecidos pelo amigão da vizinhança. No entanto, um ataque inesperado coloca em risco a vida de seus amigos e Peter é obrigado a colocar o seu traje especial para salvar aqueles que ama."
     }
   ]
 }
